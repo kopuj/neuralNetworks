@@ -1,13 +1,13 @@
-# Data Handling and Machine Learning
+# Neural networks
 
 Learning Resources for Neural Networks course
 which is the part of the Software Engineering Curriculum in Metropolia UAS.
 
 _This material has been made by Juha Kopu._
 
-## Modules
+## Material
 
-1. Fully connected neural nets
+1. [Fully connected neural nets](Fully_connected.ipynb)
 2. Graphical monitoring during training
 3. Image processing and convolutional neural nets
 4. Loss functions and handling overfitting

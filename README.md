@@ -18,8 +18,8 @@ _This material has been made by Juha Kopu._
 
 ## Assignments
 
-1. Assignment 1. 
-2. Assignment 2. 
-3. Assignment 3.  
-4. Assignment 4. 
-5. Assignment 5.  
+1. [Week 1.](Assignments/Assignment_week1.md) 
+2. Week 2. 
+3. Week 3.  
+4. Week 4. 
+5. Week 5.  

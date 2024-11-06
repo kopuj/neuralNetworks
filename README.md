@@ -20,6 +20,6 @@ _This material has been written by Juha Kopu._
 
 1. [Week 1.](Assignments/Assignment_week1.md) 
 2. [Week 2.](Assignments/Assignment_week2.md) 
-3. Week 3.  
+3. [Week 3.](Assignments/Assignment_week3.md)  
 4. Week 4. 
 5. Week 5.  

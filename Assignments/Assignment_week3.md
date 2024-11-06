@@ -1,4 +1,4 @@
-# Assignment: week 2
+# Assignment: week 3
 
 ## Objectives
 

@@ -10,9 +10,9 @@ _This material has been written by Juha Kopu._
 1. [Fully connected neural nets](Fully_connected.ipynb)
 2. [Graphical monitoring and overfitting](Graphical_monitoring.ipynb)
 3. [Image processing and convolutional neural nets](ConvNets.ipynb)
-4. More on convolutional networks
-5. Processing text data
-6. Neural networks for natural language processing
+4. [Text preprocessing and word vectors](Text_preprocessing.ipynb)
+5. Attention mechanism
+6. Transformer architecture
 7. Large Language models
 
 

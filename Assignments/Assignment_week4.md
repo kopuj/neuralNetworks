@@ -16,7 +16,7 @@ With the pretrained GloVe embeddings, find the word vectors for the three words 
 
 vec("woman") - vec("man) + vec("king")
 
-and find the nearest vector(s) to it, using the cosine similarity as the distance measure. You can use the code in [weekly material](Text_preprocessing.ipynb) as the starting point.
+and find the nearest vector(s) to it, using the cosine similarity as the distance measure. You can use the code in [weekly material](../Text_preprocessing.ipynb) as the starting point.
 
 Can you explain your result? 
 

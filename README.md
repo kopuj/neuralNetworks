@@ -11,7 +11,7 @@ _This material has been written by Juha Kopu._
 2. [Graphical monitoring and overfitting](Graphical_monitoring.ipynb)
 3. [Image processing and convolutional neural nets](ConvNets.ipynb)
 4. [Text preprocessing and word vectors](Text_preprocessing.ipynb)
-5. Attention mechanism
+5. [Positional embedding and self-attention](Attention.ipynb)
 6. Transformer architecture
 7. Large Language models
 

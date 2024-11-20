@@ -22,4 +22,4 @@ _This material has been written by Juha Kopu._
 2. [Week 2.](Assignments/Assignment_week2.md) 
 3. [Week 3.](Assignments/Assignment_week3.md)  
 4. [Week 4.](Assignments/Assignment_week4.md)  
-5. Week 5.  
+5. [Week 5.](Assignments/Assignment_week5.md)  

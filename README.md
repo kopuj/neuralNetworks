@@ -23,3 +23,4 @@ _This material has been written by Juha Kopu._
 3. [Week 3.](Assignments/Assignment_week3.md)  
 4. [Week 4.](Assignments/Assignment_week4.md)  
 5. [Week 5.](Assignments/Assignment_week5.md)  
+6. [Week 6.](Assignments/Assignment_week6.md)

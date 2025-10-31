@@ -1,7 +1,7 @@
 # Neural networks
 
 Learning Resources for Neural Networks course
-which is the part of the Software Engineering Curriculum in Metropolia UAS.
+which is included in the Software Engineering Curriculum at Metropolia UAS.
 
 _This material has been written by Juha Kopu._
 

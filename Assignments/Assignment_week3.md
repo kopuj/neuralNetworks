@@ -12,17 +12,19 @@ Use the same CIFAR-10 dataset as in the course material [notebook](../ConvNets.i
 
 ## Task
 
-In the course material, a simple convolutional neural network is built, trained and tested to solve the multiclass classification task presented by the CIFAR-10 dataset. To improve the accuracy, you should experiment with pretrained models. Follow the instructions in Chollet's book "Deep Learning with Python", 2nd edition, Chapter 8, pp. 225-231: _Feature extraction with a pretrained model_. Pick one of the pretrained models available with Keras, and discard the Dense classifier top. You should only use the convolutional base to preprocess the original images to a new representation, using its `predict` method. For this modified input data, you should build a simple fully connected classifier, train it, and test it.
+In the course material, a simple convolutional neural network is built, trained and tested to solve the multiclass classification task presented by the CIFAR-10 dataset. For this assignment, you should experiment with pretrained models. You can follow the instructions in Chollet's book "Deep Learning with Python", 3rd edition, Chapter 8 (Image classification): _Using a pretrained model_. With one of the pretrained ConvNet models available with Keras, you can preprocess the original images to a new representation. For this modified input data, you should build a simple fully connected classifier, train it, and test it.
 
 Prepare a Jupyter notebook containing an account of the problem treatment. Note the following:
 
-- You should create three separate Dataset objects for training, validation, and testing.
+- You should arrange the available data into training, validation, and test sets.
 
-- Pick a suitable convolutional base, and use it for fast feature extraction with all three Datasets (see page 229 in Chollet's book). 
+- Pick a suitable convolutional base (e.g. VGG16), and load it without the Dense classifier top. Freeze the weights of the convolutional base.
 
-- Build the fully connected classifier top, and train it together with validation data. Remember to present the training graphs in the notebook. Experiment with a few choices for hyperparameters, and present the ones with the best results (do not include all your trials in the notebook).  
+- Use the convolutional base to preprocess the images into a suitable representation (see _"Fast feature extraction without data augmentation"_). 
 
-- Test your model with test set, and report the accuracy. Try to improve the accuracy obtained with the model in the course material.
+- Build the fully connected classifier top, and train it together with validation data. Remember to present the training graphs in the notebook. Experiment with a few choices for hyperparameters, and present the one leading to the best results (do not include all your trials in the notebook).  
+
+- Test your model with test set, and report the accuracy. (Do not be surprised if the accuracy is not very high.)
 
 - Use markdown cells to document your work.
 

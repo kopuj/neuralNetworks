@@ -8,17 +8,22 @@ The objectives of this assignment are:
 
 ## Setup
 
-Use the pretrained [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) (file "glove.6B.100d.txt"), that are also available e.g. in [Kaggle](https://www.kaggle.com/datasets/anmolkumar/glove-embeddings).
+Use the pretrained GloVe embeddings, that can be downloaded [from this link](https://nlp.stanford.edu/projects/glove/); pick any of the recently uploaded versions (e.g., one of the "2024 Wikipedia + Gigaword 5" zip files).
 
 ## Task
 
-With the pretrained GloVe embeddings, find the word vectors for the three words "man", "woman", and "king". With these, calculate the vector obtained from the expression
+* With the selected pretrained embeddings, find the word vectors for the three words "man", "woman", and "king". With these, calculate the vector obtained from the expression
 
-vec("woman") - vec("man) + vec("king")
+&nbsp;
+    vec("woman") - vec("man) + vec("king")
 
-and find the nearest vector(s) to it, using the cosine similarity as the distance measure. You can use the code in [weekly material](../Text_preprocessing.ipynb) as the starting point.
+&nbsp;
+    and find the nearest vector(s) to it, using the cosine similarity as the distance measure. You can use the code in [weekly material](../Text_preprocessing.ipynb) as the starting point.
 
-Can you explain your result? 
+&nbsp;
+    Can you explain your result?
+
+* Find another example case involving word vectors that leads to an interesting result, and reflects the semantic connections between words. Explain your example.
 
 ## Deliverables
 

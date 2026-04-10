@@ -8,7 +8,7 @@ The objectives of this assignment are:
 
 ## Setup
 
-Use the pretrained GloVe embeddings, that can be downloaded [from this link](https://nlp.stanford.edu/projects/glove/); pick any of the recently uploaded versions (e.g., one of the "2024 Wikipedia + Gigaword 5" zip files).
+Use the pretrained GloVe embeddings, that can be downloaded [from this link](https://nlp.stanford.edu/projects/glove/); pick any of the available versions (e.g. "2014 Wikipedia + Gigaword 5" zip file).
 
 ## Task
 
@@ -23,7 +23,7 @@ Use the pretrained GloVe embeddings, that can be downloaded [from this link](htt
 &nbsp;
     Can you explain your result?
 
-* Find another example case involving word vectors that leads to an interesting result, and reflects the semantic connections between words. Explain your example.
+* Find a few other example cases involving word vectors that lead to interesting results, and reflect the semantic connections between words. Explain your findings.
 
 ## Deliverables
 

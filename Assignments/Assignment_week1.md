@@ -14,7 +14,7 @@ Use the iris dataset for this assignment: [https://archive.ics.uci.edu/ml/machin
 
 Fetch the iris dataset (e.g. from the above link) and execute the necessary preprocessing to convert the input features and target labels to a form suitable for inserting into neural networks built with Keras. 
 
-Your task is to build a multiclass classifier with Keras, that takes the four numerical features of the iris samples as input, and outputs the prediction for its species. The classifier should be a simple neural network model, and consist of **1)** no more than one hidden layer, and **2)** the output layer of three units with softmax activation.
+Your task is to build a multiclass classifier with Keras, that takes the four numerical features of the iris samples as input, and outputs the prediction for its species. The classifier should be a fully connected neural network model, and consist of **1)** no more than one hidden layer, and **2)** the output layer of three units with softmax activation.
 
 Prepare a Jupyter notebook containing a full account of the problem treatment, including the training of the model. Please take into account the following:
 
@@ -22,7 +22,7 @@ Prepare a Jupyter notebook containing a full account of the problem treatment, i
 
 - It might be a good idea to apply random shuffling to the data, check out `np.random.shuffle`.
 
-- Use the parameter `validation_split` with the `fit` method to extract a part of data from training for validation purposes (you don't need to extract a separate test set).
+- Use the parameter `validation_split` with the `fit` method to extract a part of data from training for validation purposes. Do not extract a separate test set because of the small size of available data!
 
 - Pick accuracy as the relevant metric, and aim to achieve approx. 95% for both training and validation accuracy with your model.
 

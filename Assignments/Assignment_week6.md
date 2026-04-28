@@ -12,7 +12,7 @@ Use the dataset containing short sentences translated from English to Finnish (*
 
 ## Task
 
-Build and train a Transformer model to translate sentences from English to Finnish with the dataset referred to above. You can use the same classes for embedding (token + positional) layer and Transformer encoder and decoder as in Chollet's "Deep Learning with Python" and [weekly material](../Transformer.ipynb). As for the actual model, follow the similar example with English-Spanish translation in Chollet's book; also, you can use the code below to read the sentences from the file:
+Build and train a Transformer model to translate sentences from English to Finnish with the dataset referred to above. You can find guidance for creating classes for embedding (token + positional) layer and Transformer encoder and decoder blocks in Chollet's "Deep Learning with Python" (Chapter 15: "The Transformer architecture"), and in the context of a similar example with English-Spanish translation [in this link](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/). Also, you can use the code below to read the sentences from the file:
 
 `text_file = "fin-eng/fin.txt"` <br/>
 

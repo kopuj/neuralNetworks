@@ -12,7 +12,7 @@ Use the same California housing dataset as in the course material [notebook](../
 
 ## Task
 
-Your task is to build a fully connected neural network model for predicting the median house value in California districts, using the available features in the dataset. You should start by first building a large enough model that you can recognize to overfit the training data. After this, you should try out different strategies for reducing overfitting, and select the one that leads to the best results on the validation set - in terms of mean average error (MAE).
+Your task is to build a fully connected neural network model for predicting the median house value in California districts, using the available features in the dataset. You should start by first building a large enough model that you can recognize to overfit the training data. After this, you should try out different strategies for reducing overfitting, and select the one that leads to the best results on the validation set - in terms of mean absolute error (MAE).
 
 Prepare a Jupyter notebook containing an account of the problem treatment. You do not have to report all the different experiments and their results (training printouts etc.) in detail: a short mention of the various trials is enough. However, the training and subsequent testing of the finally selected model must be presented in the notebook.
 

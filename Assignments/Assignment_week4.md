@@ -8,7 +8,7 @@ The objectives of this assignment are:
 
 ## Setup
 
-Use the pretrained GloVe embeddings, that can be downloaded [from this link](https://zenodo.org/records/492537); pick any of the available versions (e.g. "2014 Wikipedia + Gigaword 5" zip file).
+Use the pretrained GloVe embeddings, that can be downloaded [from this link](https://zenodo.org/records/4925376); pick any of the available versions (e.g. "2014 Wikipedia + Gigaword 5" zip file).
 
 ## Task
 
